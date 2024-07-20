@@ -44,4 +44,7 @@ This software is developed for educational and security testing purposes only. U
 
 **Please use this software only for authorized and ethical purposes.**
 
+## 🆘 Support
+If you have any problems, please contact us through Discord: [https://discord.gg/dyT4eyYY3N](https://discord.gg/dyT4eyYY3N)
+
 ---
